@@ -19,6 +19,7 @@ Requires a current Omarchy installation. Developed and tested with Omarchy 4.0.0
 - Complete dark palette generated through `colors.toml`
 - Two original 16:9 wallpapers
 - Coordinated Omarchy lock-screen colors
+- Transparent Plymouth unlock emblem and preview
 - `Yaru-prussiangreen-dark` icon selection
 
 Part of [Omarchy Dreamscapes](https://github.com/leaflessbranch/omarchy-dreamscapes), a ten-theme surreal desktop collection.
